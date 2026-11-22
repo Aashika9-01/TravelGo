@@ -35,7 +35,7 @@ export default function Navbar({ currentPage = "home", onNavigate }) {
           : "bg-white/90 backdrop-blur-sm shadow-xs py-4"
       }`}
     >
-      <div className="mx-auto flex max-w-7xl items-center justify-between px-6 lg:px-8">
+      <div className="flex w-full items-center justify-between px-6 sm:px-10 lg:px-12">
         {/* Brand Logo */}
         <button
           type="button"
