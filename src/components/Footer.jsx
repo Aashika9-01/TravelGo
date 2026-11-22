@@ -210,8 +210,6 @@ function Footer({ onNavigate }) {
           <p>© {new Date().getFullYear()} TravelGo Nepal Pvt. Ltd. All rights reserved.</p>
 
           <div className="flex items-center gap-6">
-            <span className="hover:text-gray-400 cursor-pointer">Privacy Policy</span>
-            <span className="hover:text-gray-400 cursor-pointer">Terms of Service</span>
             <button
               onClick={scrollToTop}
               className="flex items-center gap-1 text-gray-400 transition hover:text-orange-400 cursor-pointer"
