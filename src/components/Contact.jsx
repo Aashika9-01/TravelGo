@@ -292,7 +292,7 @@ function Contact({ selectedTour }) {
                     rows="4"
                     value={formData.message}
                     onChange={handleChange}
-                    placeholder="Tell us about your fitness level, special dates, or specific places you want to see..."
+                    placeholder="Tell us about your travel preferences..."
                     className="w-full resize-y rounded-2xl border border-gray-200 px-4 py-3 text-sm outline-none transition focus:border-emerald-700 focus:ring-2 focus:ring-emerald-100"
                   />
                 </div>
