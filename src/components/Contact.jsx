@@ -115,7 +115,7 @@ function Contact({ selectedTour }) {
                   </div>
                   <div>
                     <h4 className="text-xs font-bold uppercase tracking-wider text-emerald-300">
-                      Office Hours
+                      Office Time
                     </h4>
                     <p className="mt-1 text-sm font-medium text-white">
                       Sunday – Friday: 8:00 AM – 7:00 PM 
